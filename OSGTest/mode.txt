@@ -1,0 +1,2 @@
+﻿#true为mode1求AABB与OBB false为mode2 多模型加载
+false
